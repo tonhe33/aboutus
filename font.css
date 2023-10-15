@@ -1,0 +1,37 @@
+
+@font-face{
+  font-family:'smile';
+  src:url('./deyihei/SmileySans-Oblique.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'handkick';
+  src:url('./handkick/Handkick_Demo.otf') format('truetype');
+}
+
+@font-face{
+  font-family:'rumpi';
+  src:url('./rumpi/Rumpi.otf') format('truetype');
+}
+
+@font-face{
+  font-family:'peteroy';
+  src:url('./peteroy/Peteroy.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'xingkai';
+  src:url('./xingkai_fanti_cu/xingkai.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'jianduan';
+  src:url('./jianduan.ttf') format('truetype');
+}
+
+@font-face{
+  font-family:'hanyi';
+  src:url('./hanyi/hanyi.ttf') format('truetype');
+}
+
+* { font-family: smile; }
